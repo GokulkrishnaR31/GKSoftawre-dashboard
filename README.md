@@ -1,4 +1,4 @@
-# GKSoftawre-dashboard
+# GKSoftaware-dashboard
 
 1. **Homepage (Feed):**
    - Upon landing on the homepage, you see a clean and organized feed of posts or updates.
