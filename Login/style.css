@@ -3,9 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #ffffff;
+    color: #1c1b1b;
 }
-
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -16,14 +15,13 @@
     background-color: #4da1f0; 
 }
 
-
+/* Feed (Homepage) */
 .feed {
     flex: 1;
-    background-color: #f841cd;
+    background-color: #eb8dd5;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
-}
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); }
 
 .post {
     margin-bottom: 20px;
@@ -32,7 +30,7 @@
 
 .profile {
     flex: 1;
-    background-color: #cbed21;
+    background-color: #e2f292;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -45,10 +43,9 @@
     margin-bottom: 10px;
 }
 
-
 .chat {
     flex: 1;
-    background-color: #a023ee;
+    background-color: #d393fb;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -65,7 +62,7 @@
 
 .notifications {
     flex: 1;
-    background-color: #58e83e;
+    background-color: #aaec9e;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
